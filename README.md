@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Software Engineer</strong> with 4+ years of experience architecting, building, and scaling cross-platform mobile applications for iOS & Android.
+    <strong>Software Engineer</strong> with 4+ years of experience architecting, building, and scaling cross-platform mobile applications with <strong>React Native</strong> for iOS & Android.
   </p>
 
   <!-- Quick Badges / Metrics -->
