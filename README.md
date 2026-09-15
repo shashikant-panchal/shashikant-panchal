@@ -13,7 +13,6 @@
   <p align="center">
     <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Status-Open_to_Collaborations-22C55E?style=flat-square&logo=gitbook&logoColor=white" alt="Status" /></a>
     <img src="https://img.shields.io/badge/Experience-4%2B_Years-0284C7?style=flat-square&logo=speedtest&logoColor=white" alt="Experience" />
-    <img src="https://img.shields.io/badge/Apps_Shipped-5%2B_in_Production-8B5CF6?style=flat-square&logo=googleplay&logoColor=white" alt="Apps Shipped" />
     <img src="https://img.shields.io/badge/Location-Mysuru%2C_India-EA580C?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://komarev.com/ghpvc/?username=shashikant-panchal&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
@@ -102,77 +101,6 @@ I am a **Software Engineer** specializing in **building cross-platform mobile ap
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
-
----
-
-## 🚀 Key Production Highlights
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">📱 Saksham Pro</h3>
-      <p align="center"><strong>Enterprise Learning Experience Platform</strong></p>
-      <ul>
-        <li><strong>React Native 0.86 & React 19</strong> enterprise architecture with AWS Amplify v6 & Cognito.</li>
-        <li>Enterprise SSO with double-ended AES token decryption & deep-link payload routing.</li>
-        <li>Live exam/quiz engine with real-time timers and auto admit-card generation.</li>
-        <li>Solved <strong>Android 15 (16KB ELF alignment)</strong> native crashes and authored custom Gradle/CMake build automation.</li>
-      </ul>
-      <p align="center">
-        <code>AWS Amplify</code> • <code>Cognito</code> • <code>AES Crypto</code> • <code>FCM</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🛍️ Finecart</h3>
-      <p align="center"><strong>Multi-Vendor E-Commerce & POS</strong></p>
-      <ul>
-        <li>Engineered end-to-end shopping, merchant store management & order flows.</li>
-        <li>Built an enterprise <strong>POS Thermal Printing Engine (~1,350 LOC)</strong> supporting Bluetooth, USB, and LAN.</li>
-        <li>Integrated <strong>LiveKit WebRTC</strong> for peer-to-peer voice/video with native Android <strong>Picture-in-Picture (PiP)</strong>.</li>
-        <li>Geolocation-scoped marketplace resolution with dynamic vendor guard logic & Razorpay payments.</li>
-      </ul>
-      <p align="center">
-        <code>LiveKit WebRTC</code> • <code>ESC/POS</code> • <code>Razorpay</code> • <code>NFC</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🕉️ Upāsanā</h3>
-      <p align="center"><strong>Spiritual Companion App</strong></p>
-      <ul>
-        <li><strong>React Native 0.81 & Expo 54</strong> with New Architecture & React Compiler enabled for fluid 60 FPS.</li>
-        <li>Real-time multiplayer Japa rooms with synchronized counter states via Supabase Realtime WebSockets.</li>
-        <li>Serverless astronomical Panchang computation engine built on Supabase Edge Functions with offline fallback.</li>
-        <li>Custom Expo Config Plugins (Node.js) patching Android manifest build conflicts at compile-time.</li>
-      </ul>
-      <p align="center">
-        <code>Expo 54</code> • <code>Supabase</code> • <code>Edge Functions</code> • <code>Reanimated v4</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=shashikant-panchal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8" alt="Shashikant's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shashikant-panchal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <a href="https://github.com/shashikant-panchal">
-    <img src="https://streak-stats.demolab.com/?user=shashikant-panchal&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
-  </a>
-</div>
 
 ---
 
